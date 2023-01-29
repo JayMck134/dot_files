@@ -1,0 +1,10 @@
+URxvt*termName: xterm-256color
+URxvt*scrollBar: false
+! Fonts
+URxvt.font:xft:inconsolata:size=12:antialias=true
+URxvt.boldfont:xft:inconsolata:bold:size=12:antialias=true
+!colour
+URxvt*foreground: #eeeeee
+!opacity
+URxvt*depth: 32
+URxvt*background: rgba:0000/0000/0200/c800
